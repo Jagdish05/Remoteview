@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.16\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20bd99246ec075d0ca8ffd16d629dc18e35eafac">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\pl.droidsonroids.gif-android-gif-drawable-1.1.16_c93597ce072ca521b561caf63a4066ad69c3ace9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_507e8ff188cc5e4a27e97d2f4b56230c17902b98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.5.0_da75efb4bff3bd3687f86d928b06ade67328a7c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.5.0_21337e38ec217dbfb00b340c6c487e465175ea78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e77fb50b72926a7aed6ee47a553519f4cff78c2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.nightonke\boommenu\2.0.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="735f52d952785f327a7f05ededa9da7d92ffccca">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nightonke-boommenu-2.0.7_d4e6e8cd0daf73cf95317e5f70e379c755f58f3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.5.0_5828b0c51ff836b9915004234d525d4752b068c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.5.0_d5de06e8cb8e84ca000f37dad1ca6ad1fa999c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_3d16cbadf699d1a8ab370506f45ca7587968774d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.5.0_679ba9caa645f15a5a967a5373ea9d1b918e019c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4147eaa7f7ac17693caade718f56d2c75d60e1c">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_389b870c631d7ce28f327e5f9e8ff0a2cfbf8664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.0.0_b70309ea85e307ec096ee80b8d3d85a0666f9fac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_250cc5675e79b50c15906684c40f8fb5e78fa1e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b39dda2dc25f8e2f1146eed2876be73630d8a81d">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e9e7de0c28ae270eece6b9d6bc549f7309a8e31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_d526a51d571cf359fd25f7816703f36dfd918741\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.5.0_89ab948fa53593509a6a87613525896e39b297dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_50747eda86e0714b79c9928958b4f2edeccf12d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.5.0_7a1090e04a3b2d8edb5185f14470e8667d8da94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_eea210b94d01d107aad47f9f6570994660e39edf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6e9749eda09603a3b3176a5e1a287b5300b9030c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\info.hoang8f\android-segmented\1.0.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="692a913dff3246e0cc5369c2508f5970ecfeca01">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\info.hoang8f-android-segmented-1.0.6_3ebac8002cf135ef2254b6a514196230149b692a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.5.0_a0a647ee437510afc1d7be35cbc22ca805d0e580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.5.0_d077914b39c1b607102454aa0de66c781d5e4fcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.5.0_4a2a1d3a62fa3bcb8dd4c4ba471a830a43afcd6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3fd79f70e83bbc0bd59364f8b7ef652812cbe484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ec3d7374b37aa47b8e66907c98f1c498b2afbd5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kaal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_e809da9a50d6388b6403871fff63f39dddee9e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9b406bfd51a8866b8e993105be38868f2003de6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a091c66cf2ee9ce25ad1847e15e90ab8df958a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.5.0_85361abb23b6cbca28855f90a3fcdb458f123844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kaal\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_a387c0245071658789863d4987802d6be5c0e171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.jmedeisis\bugstick\0.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ccb87c4b293be4a4cf1e2678e5f9195dfe907b6">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jmedeisis-bugstick-0.2.2_05cfc68d2b77bb000a754a591762362cb23356b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.5.0_fc453192808831b0522ef397aadf74990b1a2edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e0de606f0cf763bd54d20c503d922cd5e4a3d5fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.2.0_60e5f15f8196cd70af95f5fd8740fd1e79618c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d2790f5a624be0aff9bed7757689fe2cdb434da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.5.0_f979cb811698eb4832a43c0f3b7ad29d0cc7c0b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.h6ah4i.android.widget.verticalseekbar\verticalseekbar\0.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10ac843a8f6f59f3839ddc557ed1f97513874acb">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.h6ah4i.android.widget.verticalseekbar-verticalseekbar-0.7.0_2f7ae7e55b4f54c535276b78a02322fbaf4e103d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.wang.avi\library\2.1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wang.avi-library-2.1.3_c49bfab4ddea27d64615d2b5bf4d5e50678d890c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_25f42b12a14e3df90fa69ef368c2aa39301cf472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_27cd7ef559c52ce862aa9e0f829d37e0ed41d78f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.5.0_428fc816e7a5cba74bcf5465c0b6cab4363f588a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.5.0_70caca9fa69532fcbfe0fc919fa7d2ad4cc1e1fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.5.0_d8c8a8c271ad1e1453e3e114b7f374cf79b96cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_67a266c47042fd2b3aaa320e4b2fe41e47512db9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.5.0_624607dc2066ea0485a719c464c2a38e37cab885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Drone\Android\RemoteView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Drone\Android\RemoteView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2687bce6ad88a346044113484c457f86323fd548\classes.dex" />
+    </item>
+
+</items>

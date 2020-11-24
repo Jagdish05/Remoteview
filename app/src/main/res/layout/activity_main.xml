@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.jagdish.remoteview.MainActivity">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:id="@+id/frame1"
+        android:foregroundGravity="center"
+        android:background="#000000"
+        android:layout_height="match_parent">
+       <!-- <WebView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/webview">
+        </WebView>-->
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="2dp">
+
+        <View
+            android:layerType="software"
+            android:layout_width="wrap_content"
+            android:layout_height="121dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/vertical_line" />
+
+        <View
+            android:layerType="software"
+            android:layout_width="wrap_content"
+            android:layout_height="111dp"
+            android:layout_marginBottom="35dp"
+            android:layout_gravity="center|bottom"
+            android:background="@drawable/vertical_line" />
+
+        <TextView
+            android:id="@+id/height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="1000"/>
+
+        <ProgressBar
+            android:id="@+id/powerstatus"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:layout_marginLeft="40dp"
+            android:max="100"
+            style="@style/CustomProgressBar"
+            android:layout_gravity="left|top"/>
+
+        <!--<com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/laoder"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center|center"
+            android:background="@android:color/transparent"
+            app:indicatorName="BallPulseSyncIndicator"
+            />-->
+
+        <!--<ImageButton
+            android:id="@+id/setting"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="60dp"
+            android:layout_gravity="end|top"
+            android:src="@drawable/cogwheel"
+            android:scaleType="fitCenter"
+            android:alpha="0.70"
+            android:background="@android:color/transparent"/>-->
+
+        <!--Head count Button toggle-->
+        <ImageButton
+            android:id="@+id/headcount"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/headcount"
+            android:background="@android:color/transparent"
+            android:layout_gravity="end|top"
+            android:scaleType="fitCenter"
+            android:tag="start"
+            android:alpha="0.8"/>
+
+        <ImageButton
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="4dp"
+            android:layout_gravity="start|top"
+            android:src="@drawable/cogwheel"
+            android:scaleType="fitCenter"
+            android:alpha="0.30"
+            android:background="@android:color/transparent"/>
+
+        <!--Menu-->
+        <com.nightonke.boommenu.BoomMenuButton
+            android:id="@+id/bmb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|top"
+            android:layout_marginLeft="-19dp"
+            android:layout_marginTop="-18dp"
+            android:scaleType="fitCenter"
+            android:alpha="0.80"
+            android:background="@android:color/transparent"/>
+
+        <!--time_of_flight-->
+        <TextView
+            android:id="@+id/flighttime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="time_of_flight"/>
+
+        <LinearLayout
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center|bottom" >
+
+            <pl.droidsonroids.gif.GifImageButton
+                android:id="@+id/props"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:scaleType="fitCenter"
+                android:background="@android:color/transparent"
+                android:src="@drawable/takeoffland"
+                android:text="Takeoff"
+                android:elegantTextHeight="false" />
+        </LinearLayout>
+
+        <!--Right corner text-->
+        <!--<LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="sdfgfsdg"
+                android:background="@android:color/transparent"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="sdfgfsdg"
+                android:background="@android:color/transparent"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>-->
+
+        <com.jmedeisis.bugstick.Joystick
+            android:id="@+id/joystick"
+            android:layout_width="@dimen/base_size"
+            android:layout_height="@dimen/base_size"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="right|bottom"
+            android:background="@drawable/bg_base">
+
+            <!-- You may use any View here. -->
+            <Button
+                android:layout_width="@dimen/stick_size"
+                android:layout_height="@dimen/stick_size"
+                android:background="@drawable/bg_stick" />
+
+        </com.jmedeisis.bugstick.Joystick>
+
+        <com.jmedeisis.bugstick.Joystick
+            android:id="@+id/movepad"
+            android:layout_width="@dimen/base_size"
+            android:layout_height="@dimen/base_size"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|bottom"
+            android:background="@drawable/bg_base">
+
+            <Button
+                android:layout_width="@dimen/stick_size"
+                android:layout_height="@dimen/stick_size"
+                android:background="@drawable/bg_stick" />
+
+        </com.jmedeisis.bugstick.Joystick>
+
+        <!--<FrameLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--&gt;-->
+
+        <!--<SeekBar-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/seekBar2"-->
+            <!--android:layout_gravity="bottom"-->
+
+            <!--android:rotation="270" />-->
+        <!--&lt;!&ndash;</FrameLayout>&ndash;&gt;-->
+
+        <!--Trottle Stick on left corner-->
+        <!--<com.h6ah4i.android.widget.verticalseekbar.VerticalSeekBarWrapper
+            android:layout_width="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="@dimen/stick_size"
+            android:layout_height="match_parent">
+            <com.h6ah4i.android.widget.verticalseekbar.VerticalSeekBar
+                android:id="@+id/seekBar2"
+                android:layout_width="100dp"
+                android:layout_height="0dp"
+                android:splitTrack="false"
+                android:focusable="false"
+                android:clickable="false"
+                android:longClickable="false"
+                app:seekBarRotation="CW270" /> &lt;!&ndash; Rotation: CW90 or CW270 &ndash;&gt;
+        </com.h6ah4i.android.widget.verticalseekbar.VerticalSeekBarWrapper>-->
+
+        <!--<com.example.jagdish.remoteview.CustomSeekBar-->
+            <!--android:layout_width="310dp"-->
+            <!--android:layout_marginTop="15dp"-->
+            <!--android:layout_height="340dp"-->
+            <!--android:layout_marginLeft="-80dp"-->
+            <!--android:progressDrawable="@android:color/transparent"-->
+            <!--android:id="@+id/seekBar2"-->
+            <!--android:rotation="270"-->
+            <!--/>-->
+
+        <!--<info.hoang8f.android.segmented.SegmentedGroup
+            xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/segmented2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="100dp"
+            android:orientation="vertical"
+            segmentedgroup:sc_border_width="1dp"
+            segmentedgroup:sc_corner_radius="10dp">
+
+            <RadioButton
+                android:id="@+id/button21"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:text="1"
+                style="@style/RadioButton" />
+
+            <RadioButton
+                android:id="@+id/button22"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:text="2"
+                style="@style/RadioButton" />
+
+            <RadioButton
+                android:id="@+id/button23"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:text="3"
+                style="@style/RadioButton" />
+        </info.hoang8f.android.segmented.SegmentedGroup>-->
+
+        <!--Radio button on left side-->
+        <!--<info.hoang8f.android.segmented.SegmentedGroup
+            xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/segmented2"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            segmentedgroup:sc_border_width="1dp"
+            segmentedgroup:sc_corner_radius="10dp">
+
+            <RadioButton
+                android:id="@+id/button21"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:text="1"
+                android:onClick="onRadioButtonClicked"
+                style="@style/RadioButton" />
+            <RadioButton
+                android:id="@+id/button22"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:onClick="onRadioButtonClicked"
+                android:text="2"
+                style="@style/RadioButton" />
+            <RadioButton
+                android:id="@+id/button23"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:text="3"
+                android:onClick="onRadioButtonClicked"
+                style="@style/RadioButton" />
+
+        </info.hoang8f.android.segmented.SegmentedGroup>-->
+       <!--<SeekBar-->
+           <!--android:id="@+id/seekbarYaw"-->
+           <!--android:layout_width="250sp"-->
+           <!--android:layout_height="wrap_content"-->
+           <!--android:layout_gravity="bottom"-->
+           <!--android:progress="50"-->
+           <!--android:max="100"-->
+           <!--/>-->
+
+        <!--Yaw stick on left bottom part-->
+        <!--<com.example.jagdish.remoteview.CustomSeekBar
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:max="100"
+            android:progress="50"
+            android:progressDrawable="@android:color/transparent"
+            android:id="@+id/customSeekBar"
+            />-->
+
+        <ImageView
+            android:id="@+id/orientor"
+            android:layout_width="180dp"
+            android:layout_height="250dp"
+            android:scaleType="fitCenter"
+            android:rotation="0"
+            android:layout_gravity="center_vertical|center"
+            android:alpha=".6"
+            android:src="@drawable/focus_aim"/>
+
+        <!--<com.example.jagdish.remoteview.VerticalSeekBar-->
+            <!--android:id="@+id/calculatorVerticalSeekBar"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:layout_gravity="bottom"-->
+            <!--android:max="4"-->
+            <!--/>-->
+    </FrameLayout>
+
+</RelativeLayout>

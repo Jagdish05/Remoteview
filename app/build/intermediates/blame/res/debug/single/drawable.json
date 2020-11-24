@@ -1,0 +1,786 @@
+[
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\temp.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_temp.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\circle_temp.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/circle_temp.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/circle_temp.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_temp3.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\circle_temp3.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fullscreen.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\fullscreen.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\takeoffland.gif",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\takeoffland.gif"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/vertical_line.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/vertical_line.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\service.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\service.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/current_location.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/current_location.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/video.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/video.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightarrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/circle_temp2.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/circle_temp2.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\info.hoang8f\\android-segmented\\1.0.6\\res\\drawable\\radio_unchecked.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_webview.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\rounded_webview.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/photo.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/photo.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/radio_unchecked.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/info.hoang8f/android-segmented/1.0.6/res/drawable/radio_unchecked.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/bg_stick.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/bg_stick.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\path_flow_stop.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\path_flow_stop.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/props.gif",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/props.gif"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_base.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\bg_base.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_stick_pressed.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\bg_stick_pressed.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/headcount.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/headcount.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/cogwheel.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/cogwheel.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/service.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/service.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/takeoffland.gif",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/takeoffland.gif"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drone.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\drone.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piece_dot.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.nightonke\\boommenu\\2.0.7\\res\\drawable\\piece_dot.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_stick.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\bg_stick.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/bg_stick_unpressed.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/bg_stick_unpressed.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_line.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\horizontal_line.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/shape_rectangle_normal.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.nightonke/boommenu/2.0.7/res/drawable/shape_rectangle_normal.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text_color.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\info.hoang8f\\android-segmented\\1.0.6\\res\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tajmahal.jpg",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\tajmahal.jpg"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_oval_normal.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.nightonke\\boommenu\\2.0.7\\res\\drawable\\shape_oval_normal.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\photo.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/stopheadcount.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/stopheadcount.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/circle_temp4.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/circle_temp4.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/temp.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/temp.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/my_progress.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/my_progress.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/piece_dot.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.nightonke/boommenu/2.0.7/res/drawable/piece_dot.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\current_location.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\current_location.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/path_flow_stop.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/path_flow_stop.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/setting.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/rounded_webview.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/rounded_webview.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/drone.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/drone.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/captureobject.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/captureobject.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/circle_temp3.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/circle_temp3.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/fullscreen.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/fullscreen.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_normal.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.nightonke\\boommenu\\2.0.7\\res\\drawable\\shape_rectangle_normal.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\props.gif",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\props.gif"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_temp2.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\circle_temp2.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/horizontal_line.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/horizontal_line.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_bar.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\rectangle_bar.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_stick_unpressed.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\bg_stick_unpressed.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/back_button.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/back_button.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piece_ham.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.nightonke\\boommenu\\2.0.7\\res\\drawable\\piece_ham.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\back_button.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\captureobject.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\captureobject.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/piece_ham.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.nightonke/boommenu/2.0.7/res/drawable/piece_ham.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/bg_stick_pressed.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/bg_stick_pressed.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/bg_stick_oressed_right.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/bg_stick_oressed_right.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/rectangle_bar.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/rectangle_bar.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_temp4.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\circle_temp4.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_progress.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\my_progress.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\propeller.gif",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\propeller.gif"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/bg_base.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/bg_base.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/shape_oval_normal.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.nightonke/boommenu/2.0.7/res/drawable/shape_oval_normal.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/flowobject.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/flowobject.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/downarrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/downarrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\path_flow_start.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\path_flow_start.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/propeller.gif",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/propeller.gif"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\videostop.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\videostop.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/button_text_color.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/info.hoang8f/android-segmented/1.0.6/res/drawable/button_text_color.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/radio_checked.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/info.hoang8f/android-segmented/1.0.6/res/drawable/radio_checked.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/focus_aim.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/focus_aim.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\info.hoang8f\\android-segmented\\1.0.6\\res\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_stick_oressed_right.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\bg_stick_oressed_right.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\bluetooth.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focus_aim.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\focus_aim.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leftarrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\leftarrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headcount.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\headcount.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/uparrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/uparrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/videostop.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/videostop.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downarrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/tajmahal.jpg",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/tajmahal.jpg"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uparrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\uparrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/leftarrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/leftarrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cogwheel.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\cogwheel.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/refresh.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/refresh.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/rightarrow.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/rightarrow.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flowobject.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\flowobject.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stopheadcount.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\stopheadcount.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\7.5.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vertical_line.xml",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\src\\main\\res\\drawable\\vertical_line.xml"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/path_flow_start.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/path_flow_start.png"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/drawable/bluetooth.png",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/src/main/res/drawable/bluetooth.png"
+    }
+]

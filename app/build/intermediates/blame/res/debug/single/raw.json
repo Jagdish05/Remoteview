@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "/Users/jagdish/Dropbox/RemoteView/D:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.5.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/jagdish/Dropbox/RemoteView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/res/raw/gtm_analytics"
+    }
+]

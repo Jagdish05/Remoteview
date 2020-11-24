@@ -1,0 +1,7 @@
+#Fri Mar 17 23:40:44 IST 2017
+base.0=D\:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e9e7de0c28ae270eece6b9d6bc549f7309a8e31
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_389b870c631d7ce28f327e5f9e8ff0a2cfbf8664\\classes.dex
+base.1=D\:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_389b870c631d7ce28f327e5f9e8ff0a2cfbf8664
+file.0=D\:\\Drone\\Android\\RemoteView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e9e7de0c28ae270eece6b9d6bc549f7309a8e31\\classes.dex
